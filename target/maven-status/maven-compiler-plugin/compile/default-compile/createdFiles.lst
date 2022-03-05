@@ -1,0 +1,10 @@
+com/twitch/jupiter/entity/response/Game$Builder.class
+com/twitch/jupiter/entity/db/Item.class
+com/twitch/jupiter/entity/response/Game.class
+com/twitch/jupiter/entity/db/User.class
+com/twitch/jupiter/entity/db/ItemType.class
+com/twitch/jupiter/ApplicationConfig.class
+com/twitch/jupiter/controller/GameController.class
+com/twitch/jupiter/service/GameService.class
+com/twitch/jupiter/entity/response/Game$1.class
+com/twitch/jupiter/service/TwitchException.class
